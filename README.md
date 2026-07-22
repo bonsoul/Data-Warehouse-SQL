@@ -12,7 +12,6 @@ A modern, SQL Server-based data warehouse that consolidates ERP and CRM data int
 | **Target Model** | Star schema (fact + dimension tables) |
 | **Scope** | Latest snapshot only — no historization |
 | **Output** | SQL-based reports & dashboards for sales analytics |
-| **Cost** | 100% free / open tooling |
 
 ##  Data Architecture
 
